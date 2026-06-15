@@ -45,6 +45,8 @@ DOMAIN-SUFFIX,qtlcdn.com
 # HSTONG
 DOMAIN-SUFFIX,hstong.com
 DOMAIN-SUFFIX,vbkr.com
+DOMAIN-SUFFIX,valuable.com.hk
+DOMAIN-SUFFIX,im.qcloud.com
 
 # longbridge
 DOMAIN-SUFFIX,api.lbkrs.com
@@ -159,3 +161,4 @@ IP-CIDR,43.132.106.6/32,no-resolve
 IP-CIDR,43.132.106.8/32,no-resolve
 IP-CIDR,43.132.138.67/32,no-resolve
 IP-CIDR,1.15.158.235/32,no-resolve
+
