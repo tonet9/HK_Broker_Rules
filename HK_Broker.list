@@ -1,6 +1,7 @@
-===== FUTU =====
+# FUTU
 DOMAIN-SUFFIX,futu.link
 DOMAIN-SUFFIX,futu.com
+DOMAIN-SUFFIX,futuapi.com
 DOMAIN-SUFFIX,futu.cn
 DOMAIN-SUFFIX,futunn.com
 DOMAIN-SUFFIX,futu0.com
@@ -16,7 +17,9 @@ DOMAIN-SUFFIX,futu9.com
 DOMAIN-SUFFIX,futuau.com
 DOMAIN-SUFFIX,futuesop.com
 DOMAIN-SUFFIX,futufin.com
+DOMAIN-SUFFIX,futuhongkong.com
 DOMAIN-SUFFIX,futuhk.com
+DOMAIN-SUFFIX,futuhk1.com
 DOMAIN-SUFFIX,futuhk2.com
 DOMAIN-SUFFIX,futuhkapp.com
 DOMAIN-SUFFIX,futuhn.com
@@ -37,12 +40,13 @@ DOMAIN-SUFFIX,9oju31.launches.appsflyersdk.com
 DOMAIN-SUFFIX,sgqt0j.launches.appsflyersdk.com
 DOMAIN-SUFFIX,shortconn.im.qcloud.com
 DOMAIN-SUFFIX,hk-ipo.futuhn.com
+DOMAIN-SUFFIX,qtlcdn.com
 
-===== HSTONG =====
+# HSTONG
 DOMAIN-SUFFIX,hstong.com
 DOMAIN-SUFFIX,vbkr.com
 
-===== longbridge =====
+# longbridge
 DOMAIN-SUFFIX,api.lbkrs.com
 DOMAIN-SUFFIX,api-gl.lbkrs.com
 DOMAIN-SUFFIX,longbridge.cloud
@@ -52,8 +56,10 @@ DOMAIN-SUFFIX,longbridge.hk
 DOMAIN-SUFFIX,longbridge.sg
 DOMAIN-SUFFIX,longbridgeapp.com
 DOMAIN-SUFFIX,longbridgehk.com
+DOMAIN-SUFFIX,api-status.longbridgeapp.com
+DOMAIN-KEYWORD,lbkrs
 
-===== tigerbrokers =====
+# tigerbrokers
 DOMAIN-SUFFIX,itiger.com
 DOMAIN-SUFFIX,tigerbrokers.com
 DOMAIN-SUFFIX,tigerbrokers.net
@@ -65,12 +71,17 @@ DOMAIN-SUFFIX,tigerbbs.com
 DOMAIN-SUFFIX,xiaohu8.com
 DOMAIN-SUFFIX,zhijianfengyi.cn
 DOMAIN-SUFFIX,zhijianfengyi.com
+DOMAIN-KEYWORD,skytigris
+DOMAIN-KEYWORD,laohu
+DOMAIN-KEYWORD,tigrwd
+DOMAIN-KEYWORD,tradeup
+DOMAIN-KEYWORD,itigerup
 
-===== IBKR DIRECT =====
+# IBKR DIRECT
 DOMAIN-SUFFIX,ibkr.com.cn,DIRECT
 DOMAIN-SUFFIX,ibllc.com.cn,DIRECT
 
-===== IBKR =====
+# IBKR
 DOMAIN-SUFFIX,ibkr.com
 DOMAIN-SUFFIX,ibllc.com
 DOMAIN-SUFFIX,ibkr.com.hk
@@ -89,12 +100,13 @@ DOMAIN-SUFFIX,interactivebrokers.com.au
 DOMAIN-SUFFIX,ndcdyn.interactivebrokers.com
 DOMAIN-SUFFIX,cdcdyn.interactivebrokers.com
 
-===== TOS =====
+# TOS
 DOMAIN-SUFFIX,thinkorswim.com
 DOMAIN-SUFFIX,tdameritrade.com
 DOMAIN-SUFFIX,schwab.com
 HOST,tosmediaserver.schwab.com
 
+# Tencent IP
 IP-CIDR,1.14.242.0/23,no-resolve
 IP-CIDR,14.152.91.0/24,no-resolve
 IP-CIDR,38.65.217.0/24,no-resolve
