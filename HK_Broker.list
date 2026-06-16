@@ -40,7 +40,6 @@ DOMAIN-SUFFIX,moomootrustee.com
 DOMAIN-SUFFIX,9oju31.launches.appsflyersdk.com
 DOMAIN-SUFFIX,sgqt0j.launches.appsflyersdk.com
 DOMAIN-SUFFIX,shortconn.im.qcloud.com
-DOMAIN-SUFFIX,hk-ipo.futuhn.com
 DOMAIN-SUFFIX,qtlcdn.com
 DOMAIN,cg.play-analytics.com
 DOMAIN,qtcard.futunn.com
@@ -52,6 +51,7 @@ DOMAIN,trade.futunn.com
 DOMAIN,support.futunn.com
 DOMAIN,download.futunn.com
 DOMAIN,cdn.futustatic.com
+DOMAIN,hk-ipo.futuhn.com
 
 # HSTONG
 DOMAIN-SUFFIX,hstong.com
