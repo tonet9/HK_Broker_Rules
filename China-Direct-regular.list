@@ -63,7 +63,7 @@ DOMAIN-SUFFIX,doubao.com
 DOMAIN-SUFFIX,douyin.com
 DOMAIN-SUFFIX,douyinstatic.com
 DOMAIN-SUFFIX,eastmoney.com
-DOMAIN-SUFFIX,ecloud.10086.cn
+DOMAIN-SUFFIX,10086.cn
 DOMAIN-SUFFIX,edu.cn
 DOMAIN-SUFFIX,elebank.com
 DOMAIN-SUFFIX,feishu.cn
@@ -111,6 +111,7 @@ DOMAIN-SUFFIX,larksuite.com
 DOMAIN-SUFFIX,leiphone.com
 DOMAIN-SUFFIX,livibank.com
 DOMAIN-SUFFIX,mastergo.com
+DOMAIN-SUFFIX,meituan.com
 DOMAIN-SUFFIX,mgtv.com
 DOMAIN-SUFFIX,minimax.chat
 DOMAIN-SUFFIX,minimaxi.com
@@ -129,7 +130,7 @@ DOMAIN-SUFFIX,pptv.com
 DOMAIN-SUFFIX,processon.com
 DOMAIN-SUFFIX,qbitai.com
 DOMAIN-SUFFIX,qianfan.cloud
-DOMAIN-SUFFIX,qpic.cn
+DOMAIN-SUFFIX,qianwen.com
 DOMAIN-SUFFIX,sc.com
 DOMAIN-SUFFIX,scb.com.hk
 DOMAIN-SUFFIX,segmentfault.com
@@ -151,7 +152,7 @@ DOMAIN-SUFFIX,wegame.com.cn
 DOMAIN-SUFFIX,weibo.com
 DOMAIN-SUFFIX,welab.bank
 DOMAIN-SUFFIX,welab.co
-DOMAIN-SUFFIX,welink.huawei.com
+DOMAIN-SUFFIX,huawei.com
 DOMAIN-SUFFIX,wind.com.cn
 DOMAIN-SUFFIX,wise.com
 DOMAIN-SUFFIX,wolai.com
