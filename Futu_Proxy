@@ -8,19 +8,6 @@ DOMAIN-SUFFIX,futuapi.com
 DOMAIN-SUFFIX,futu.cn
 DOMAIN-SUFFIX,futusg.com
 DOMAIN-SUFFIX,futunn.com
-DOMAIN-SUFFIX,api.futunn.com
-DOMAIN-SUFFIX,api5.futunn.com
-DOMAIN-SUFFIX,openapi.futunn.com
-DOMAIN-SUFFIX,futu0.com
-DOMAIN-SUFFIX,futu1.com
-DOMAIN-SUFFIX,futu2.com
-DOMAIN-SUFFIX,futu3.com
-DOMAIN-SUFFIX,futu4.com
-DOMAIN-SUFFIX,futu5.com
-DOMAIN-SUFFIX,futu6.com
-DOMAIN-SUFFIX,futu7.com
-DOMAIN-SUFFIX,futu8.com
-DOMAIN-SUFFIX,futu9.com
 DOMAIN-SUFFIX,futuau.com
 DOMAIN-SUFFIX,futuesop.com
 DOMAIN-SUFFIX,futufin.com
@@ -38,16 +25,13 @@ DOMAIN-SUFFIX,futuchain.com
 DOMAIN-SUFFIX,futustatic.com
 DOMAIN-SUFFIX,fututrade.com
 DOMAIN-SUFFIX,fututrustee.com
-DOMAIN-SUFFIX,cdn.futustatic.com
 DOMAIN-SUFFIX,moomoo.com
-DOMAIN-SUFFIX,us.moomoo.com
-DOMAIN-SUFFIX,sg.moomoo.com
-DOMAIN-SUFFIX,api.moomoobull.com
+DOMAIN-SUFFIX,moomoobull.com
 DOMAIN-SUFFIX,moomooequity.com
 DOMAIN-SUFFIX,moomootrustee.com
 DOMAIN-SUFFIX,9oju31.launches.appsflyersdk.com
 DOMAIN-SUFFIX,sgqt0j.launches.appsflyersdk.com
-DOMAIN-SUFFIX,shortconn.im.qcloud.com
+DOMAIN-SUFFIX,qtlcdn.com
 
 # Tencent IP
 IP-CIDR,119.28.37.0/24,no-resolve
