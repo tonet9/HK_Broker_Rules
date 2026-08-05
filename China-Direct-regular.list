@@ -288,6 +288,8 @@ DOMAIN-SUFFIX,hoyoverse.com
 DOMAIN-SUFFIX,biligame.com
 
 # 搜索、工具、服务
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,aliyundrive.com
 DOMAIN-SUFFIX,alipan.com
 DOMAIN-SUFFIX,quark.cn
