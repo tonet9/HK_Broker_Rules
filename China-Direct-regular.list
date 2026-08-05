@@ -122,7 +122,6 @@ DOMAIN-SUFFIX,tcdnlive.com
 DOMAIN-SUFFIX,tlivedns.com
 DOMAIN-SUFFIX,wxqcloud.qq.com.cn
 
-
 # 字节跳动
 DOMAIN-SUFFIX,bytedance.com
 DOMAIN-SUFFIX,bytedance.net
@@ -154,6 +153,16 @@ DOMAIN-SUFFIX,ecombdapi.com
 DOMAIN-SUFFIX,bytednsdoc.com
 DOMAIN-SUFFIX,baike.com
 DOMAIN-SUFFIX,bytetos.com
+DOMAIN-SUFFIX,dahhxxttxs.com
+DOMAIN-SUFFIX,sjxydc.com
+DOMAIN-SUFFIX,yingt.fun
+DOMAIN-SUFFIX,bytefae.com
+DOMAIN-SUFFIX,ecombdstatic.com
+DOMAIN-SUFFIX,ecombdpage.com
+DOMAIN-SUFFIX,ydycdn.com
+DOMAIN-SUFFIX,jspcdn.cn
+DOMAIN-SUFFIX,qishui.com
+
 
 # 快手
 DOMAIN-SUFFIX,kuaishou.com
