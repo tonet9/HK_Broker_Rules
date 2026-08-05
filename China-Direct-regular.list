@@ -222,6 +222,9 @@ DOMAIN-SUFFIX,huawei.com
 DOMAIN-SUFFIX,kingsoft.com
 DOMAIN-SUFFIX,wangsu.com
 DOMAIN-SUFFIX,xfyun.cn
+DOMAIN-SUFFIX,itc.cn
+DOMAIN-SUFFIX,bcebos.com
+
 
 # 教育学术
 DOMAIN-SUFFIX,chaoxing.com
