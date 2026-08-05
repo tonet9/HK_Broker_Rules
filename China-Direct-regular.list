@@ -105,6 +105,8 @@ DOMAIN-SUFFIX,pddcdn.com
 
 # 腾讯生态
 DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,qq.com.cn
+DOMAIN-SUFFIX,weixin.qq.com.cn
 DOMAIN-SUFFIX,wechat.com
 DOMAIN-SUFFIX,tencent.com
 DOMAIN-SUFFIX,gtimg.com
@@ -114,6 +116,12 @@ DOMAIN-SUFFIX,qlogo.cn
 DOMAIN-SUFFIX,tenpay.com
 DOMAIN-SUFFIX,myqcloud.com
 DOMAIN-SUFFIX,tencent-cloud.com
+DOMAIN-SUFFIX,tlivesource.com
+DOMAIN-SUFFIX,qlivecdn.com
+DOMAIN-SUFFIX,tcdnlive.com
+DOMAIN-SUFFIX,tlivedns.com
+DOMAIN-SUFFIX,wxqcloud.qq.com.cn
+
 
 # 字节跳动
 DOMAIN-SUFFIX,bytedance.com
@@ -127,6 +135,25 @@ DOMAIN-SUFFIX,pstatp.com
 DOMAIN-SUFFIX,volcengine.com
 DOMAIN-SUFFIX,volces.com
 DOMAIN-SUFFIX,bdstatic.com
+DOMAIN-SUFFIX,douyincdn.com
+DOMAIN-SUFFIX,douyinstatic.com
+DOMAIN-SUFFIX,amemv.com
+DOMAIN-SUFFIX,ecombdimg.com
+DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,bytegecko.com
+DOMAIN-SUFFIX,byteeffecttos.com
+DOMAIN-SUFFIX,douyinvod.com
+DOMAIN-SUFFIX,zjcdn.com
+DOMAIN-SUFFIX,ndcpp.com
+DOMAIN-SUFFIX,douyinpic.com
+DOMAIN-SUFFIX,wuchuyun.com
+DOMAIN-SUFFIX,bytehwm.com
+DOMAIN-SUFFIX,zijieapi.com
+DOMAIN-SUFFIX,doupay.com
+DOMAIN-SUFFIX,ecombdapi.com
+DOMAIN-SUFFIX,bytednsdoc.com
+DOMAIN-SUFFIX,baike.com
+DOMAIN-SUFFIX,bytetos.com
 
 # 快手
 DOMAIN-SUFFIX,kuaishou.com
@@ -140,6 +167,11 @@ DOMAIN-SUFFIX,kuaishouzt.com
 DOMAIN-SUFFIX,ksapisrv.com
 DOMAIN-SUFFIX,k-dyn.com
 DOMAIN-SUFFIX,inkuai.com
+DOMAIN-SUFFIX,kwaizt.com
+DOMAIN-SUFFIX,kwimgs.com
+DOMAIN-SUFFIX,wsbkwai.com
+DOMAIN-SUFFIX,miaozhen.com
+DOMAIN-SUFFIX,xxpkg.com
 
 # 小红书
 DOMAIN-SUFFIX,xiaohongshu.com
@@ -150,7 +182,6 @@ DOMAIN-SUFFIX,xhscdn.com
 DOMAIN-SUFFIX,acfun.cn
 DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,bilivideo.com
-DOMAIN-SUFFIX,douyin.com
 DOMAIN-SUFFIX,hunantv.com
 DOMAIN-SUFFIX,iqiyi.com
 DOMAIN-SUFFIX,ixigua.com
