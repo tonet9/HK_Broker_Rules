@@ -104,6 +104,7 @@ DOMAIN-SUFFIX,tmall.com
 DOMAIN-SUFFIX,mmstat.com
 DOMAIN-SUFFIX,taobaocdn.com
 DOMAIN-SUFFIX,cainiao.com
+DOMAIN-SUFFIX,netflow-mtop.cainiao.com
 
 # 京东
 DOMAIN-SUFFIX,jd.com
