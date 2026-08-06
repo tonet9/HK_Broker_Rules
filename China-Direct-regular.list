@@ -84,6 +84,12 @@ DOMAIN-SUFFIX,welab.bank
 DOMAIN-SUFFIX,welab.co
 DOMAIN-SUFFIX,za.bank
 DOMAIN-SUFFIX,za.group
+DOMAIN-SUFFIX,elebank.com
+DOMAIN-SUFFIX,platform.elebank.com
+DOMAIN-SUFFIX,zajourney.com
+DOMAIN-SUFFIX,jpush.io
+DOMAIN-SUFFIX,zaticdn.com
+DOMAIN-SUFFIX,zainvest.group
 
 # 阿里生态
 DOMAIN-SUFFIX,1688.com
@@ -97,6 +103,7 @@ DOMAIN-SUFFIX,taobao.com
 DOMAIN-SUFFIX,tmall.com
 DOMAIN-SUFFIX,mmstat.com
 DOMAIN-SUFFIX,taobaocdn.com
+DOMAIN-SUFFIX,cainiao.com
 
 # 京东
 DOMAIN-SUFFIX,jd.com
@@ -435,7 +442,6 @@ DOMAIN-SUFFIX,wxamedia.com
 DOMAIN-SUFFIX,wxgateway.com
 DOMAIN-SUFFIX,xinqiucc.com
 DOMAIN-SUFFIX,yihexingyao.com
-
 DOMAIN,cdn.cnbj1.fds.api.mi-img.com
 DOMAIN-SUFFIX,bytemaimg.com
 DOMAIN-SUFFIX,toutiaocloud.net
@@ -556,5 +562,7 @@ IP-CIDR,203.119.238.0/24
 IP-CIDR,119.42.231.0/24
 IP-CIDR,47.112.191.0/24
 IP-CIDR,118.145.109.0/24
+IP-CIDR,124.71.14.0/24
+IP-CIDR,124.71.63.0/24
 
 
